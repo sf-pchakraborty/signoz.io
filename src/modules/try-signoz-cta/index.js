@@ -13,7 +13,7 @@ export const TrySigNozCTA = () => {
   return (
     <section className={styles.cta}>
       <div className="container">
-        <div className={styles.contentWrapper} >
+        <div className={styles.contentWrapper}>
           <h3 className={styles.tagline}>Give SigNoz a try</h3>
           <a
             className="button button--secondary"
